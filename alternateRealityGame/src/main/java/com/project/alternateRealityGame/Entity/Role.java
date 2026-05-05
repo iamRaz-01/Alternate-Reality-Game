@@ -1,4 +1,5 @@
 package com.project.alternateRealityGame.Entity;
-
-public enum role {
+public enum Role {
+    CREATOR,
+    PLAYER
 }
